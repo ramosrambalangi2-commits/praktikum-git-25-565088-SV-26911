@@ -6,4 +6,4 @@
 
 ## Branch Protection Rule
 
-![Branch Protection](branch-protection.png)
+![Branch Protection](branch-Protection.png)
