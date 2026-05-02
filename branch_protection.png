@@ -1,0 +1,21 @@
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from hotfix/typo to main
+[33m8997f2a[m[33m ([m[1;32mhotfix/typo[m[33m)[m HEAD@{1}: commit: docs: add branch protection screenshot
+[33m6a6fb63[m[33m ([m[1;31morigin/hotfix/typo[m[33m)[m HEAD@{2}: commit: fix: correct typo
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: checkout: moving from main to hotfix/typo
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: checkout: moving from hotfix/typo to main
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: checkout: moving from main to hotfix/typo
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: checkout: moving from feature/footer to main
+[33m824cf41[m[33m ([m[1;31morigin/feature/footer[m[33m, [m[1;32mfeature/footer[m[33m)[m HEAD@{7}: commit: feat: add footer
+[33m5b7faff[m HEAD@{8}: commit: feat: add footer
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{9}: checkout: moving from main to feature/footer
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{10}: checkout: moving from feature/navbar to main
+[33mb9b46be[m[33m ([m[1;31morigin/feature/navbar[m[33m, [m[1;32mfeature/navbar[m[33m)[m HEAD@{11}: commit: feat: add navbar
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{12}: checkout: moving from main to feature/navbar
+[33m83daaa6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{13}: commit: docs: add screenshot to README
+[33meb1a5e9[m HEAD@{14}: commit: chore: add gitignore
+[33mee42fe6[m HEAD@{15}: commit: fix: correct text typo
+[33m3ef9883[m HEAD@{16}: commit: feat: add welcome heading
+[33mde686b2[m HEAD@{17}: commit: style: add background color
+[33mbf89d64[m HEAD@{18}: commit: feat: add paragraph content
+[33m77037a5[m HEAD@{19}: commit: feat: add initial html structure
+[33m355e002[m HEAD@{20}: clone: from https://github.com/ramosrambalangi2-commits/praktikum-git-25-565088-SV-26911.git
