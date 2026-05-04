@@ -1,13 +1,6 @@
 =====================================
 # Praktikum Git - 25-565088-SV-26911
 
-## Commit History
-![Screenshot](Screenshot.png)
-
-## Branch Protection Rule
-![Branch Protection](branch-Protection.png)
-
-
 ## Deskripsi Project
 Project ini dibuat untuk memenuhi tugas praktikum pemrograman komputer menggunakan Git dan GitHub.  
 Project ini berisi halaman web sederhana yang dibuat menggunakan HTML serta latihan penggunaan Git seperti branching, merge, conflict resolution, dan interactive rebase.
@@ -100,3 +93,9 @@ Tujuan utama dari project ini adalah untuk memahami:
 9. Git Log
     git log --oneline --graph :
     Digunakan jika ingin menampilkan riwayat commit secara ringkas dan dalam bentuk visual.
+
+## Commit History
+![Screenshot](Screenshot.png)
+
+## Branch Protection Rule
+![Branch Protection](branch-Protection.png)
